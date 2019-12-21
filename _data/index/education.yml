@@ -1,8 +1,8 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Yonsei University (MA)
+  link: http://cogneuro.or.kr/
+  date: 2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: <br> (expected graduation in 2021)
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Yonsei University (BA)
+  link: http://www.yonsei.ac.kr/
+  date: 2015 - 2020
